@@ -1,1 +1,3 @@
 # Mag
+
+python main.py
